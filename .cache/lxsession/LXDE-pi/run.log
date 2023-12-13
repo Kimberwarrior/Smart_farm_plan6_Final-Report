@@ -148,3 +148,15 @@ Unit pt-device-manager.service could not be found.
 (mousepad:1171): Gtk-WARNING **: 17:39:03.174: Theme parsing error: <data>:5:31: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
 
 (mousepad:1171): Gtk-WARNING **: 17:39:03.174: Theme parsing error: <data>:6:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+** Message: 17:40:05.155: wlan0: Received scan results
+** Message: 17:41:05.133: wlan0: Received scan results
+** Message: 17:42:05.181: wlan0: Received scan results
+** Message: 17:43:05.104: wlan0: Received scan results
+** Message: 17:44:05.191: wlan0: Received scan results
+** Message: 17:45:05.173: wlan0: Received scan results
+** Message: 17:46:05.200: wlan0: Received scan results
+** Message: 17:47:05.137: wlan0: Received scan results
+** Message: 17:48:05.146: wlan0: Received scan results
+** Message: 17:49:05.139: wlan0: Received scan results
+** Message: 17:50:05.139: wlan0: Received scan results
+** Message: 17:51:05.138: wlan0: Received scan results

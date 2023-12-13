@@ -1098,3 +1098,51 @@ git config --global --add safe.directory /home/pi
 git pull main origin
 sudo git pull main origin
 sudo git push origin main
+ls -la /dev/gpiomem
+sudo chown root.gpio /dev/gpiomem
+sudo chmod g+rw /dev/gpiomem
+ls -la /dev/gpiomem
+sudo git init
+sudo git add .
+sudo git status
+git commit -m "Report_3"
+sudo git commit -m "Report_3"
+sudo git remote add origin https://github.com/farmstory5/Smart_farm_plan4_CDS_WaterLevel_Analog_signal_in-Dashboard.git
+sudo git remote -v
+git push origin master
+sudo git push origin main
+git pull --rebase origin main
+sudo git pull --rebase origin main
+git stash
+sudo git stash
+sudo git pull origin main
+sudo git stash pop
+sudo git pull --rebase origin main
+sudo git push origin main
+git push origin master --force
+sudo git push origin main --force
+sudo git remote rm origin
+sudo git remote add origin https://github.com/farmstory5/Smart_farm_plan4_CDS_WaterLevel_Analog_signal_in-Dashboard.git
+sudo git remote -v
+sudo git remote add origin t_farm_plan4_CDS_WaterLevel_Analog_signal_in-Dashboard.git
+sudo git remote add origin https://github.com/farmstory5/Smart_farm_plan5_Portfowarding_NoderedAndCamera.git
+sudo git remote -v
+sudo git remote rm origin
+sudo git remote add origin https://github.com/farmstory5/Smart_farm_plan5_Portfowarding_NoderedAndCamera.git
+sudo git remote -v
+git push origin master --force
+sudo git push origin main --force
+sudo git remote rm origin
+sudo git remote add origin t_farm_plan5_Portfowarding_NoderedAndCamera.git
+sudo git remote rm origin
+sudo git remote add origin https://github.com/farmstory5/Smart_farm_plan6_Final-Report.git
+sudo git remote -v
+sudo git push origin main --force
+git init
+sudo git init
+sudo apt-get update
+sudo apt-get upgrade
+ls -la /dev/gpiomem
+sudo chown root.gpio /dev/gpiomem
+sudo chmod g+rw /dev/gpiomem
+ls -la /dev/gpiomem
