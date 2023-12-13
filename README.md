@@ -28,7 +28,7 @@
 <img src=https://github.com/farmstory5/Smart_farm_plan6_Final-Report/assets/130550405/68c5e838-deb1-4bd3-acae-cccc5bf053f3
 </p> <br/><br/>
 
-### 노드 && 플로우 <br/>JSON 소스코드: https://github.com/farmstory5/Smart_farm_plan6_Final-Report/tree/main/SourceCode_.jsonFile
+### 노드 && 플로우 <br/>JSON 소스코드: https://github.com/Kimberwarrior/Smart_farm_plan6_Final-Report/tree/main/SourceCode_.jsonFile
 <p>
 <img src=https://github.com/farmstory5/Smart_farm_plan6_Final-Report/assets/130550405/ec756bdf-1ed1-41b4-a669-c4760eab611b
 </p><br/>
